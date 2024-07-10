@@ -44,10 +44,3 @@ Explore a curated list of resources including tutorials, articles, and tools for
 
 [Read more](resources.md)
 ```
-
-### Explanation:
-- Each entry in the Table of Contents links to the respective Markdown file in your repository.
-- The links are created using relative paths, making them functional within the GitHub repository.
-- The content is logically ordered, starting from basic CSS units, moving through specific topics like font size, `rem` and `em` units, and media queries, and finally linking to additional resources.
-
-You can copy and paste this markdown into your `README.md` file in your GitHub repository to create a structured and navigable table of contents.
