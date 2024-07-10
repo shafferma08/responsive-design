@@ -20,8 +20,6 @@
 #### **4. Practical Examples and Code Snippets**
 - **[CodePen Collection of Responsive Design Examples](https://codepen.io/collection/wabNRV)**: A curated collection of CodePen examples demonstrating various responsive design techniques.
 
-- **[Responsive Web Design Examples](https://responsivedesign.is/examples/)** by ResponsiveDesign.is: A showcase of websites that effectively use responsive design principles.
-
 #### **5. Tools for Responsive Design**
 - **[Chrome DevTools Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/)**: Learn how to use Chrome DevTools to simulate different devices and screen sizes.
 
