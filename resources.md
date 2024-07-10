@@ -23,9 +23,6 @@
 #### **5. Tools for Responsive Design**
 - **[Chrome DevTools Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/)**: Learn how to use Chrome DevTools to simulate different devices and screen sizes.
 
-- **[Viewport Resizer](https://www.viewportresizer.com/)**: A browser extension to test responsive design directly in your browser.
-
 #### **6. Tutorials and Courses**
-- **[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)** by freeCodeCamp: A free, comprehensive course on responsive web design.
+- **[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** by freeCodeCamp: A free, comprehensive course on responsive web design.
 
-- **[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)** by Udacity: A free course that covers the fundamentals of responsive web design.
