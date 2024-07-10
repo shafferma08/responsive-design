@@ -31,7 +31,3 @@
 - **[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)** by freeCodeCamp: A free, comprehensive course on responsive web design.
 
 - **[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)** by Udacity: A free course that covers the fundamentals of responsive web design.
-
----
-
-By exploring these resources, students can gain a solid understanding of responsive web design principles, media queries, and CSS units, and see practical examples of responsive design in action.
