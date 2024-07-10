@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Responsive Design Resources
 
 Welcome to the responsive design resources repository! Here you will find comprehensive guides and examples to help you understand and implement responsive web design.
@@ -43,4 +40,3 @@ Get a comprehensive guide on the different ways to create and use media queries 
 Explore a curated list of resources including tutorials, articles, and tools for mastering responsive design.
 
 [Read more](resources.md)
-```
